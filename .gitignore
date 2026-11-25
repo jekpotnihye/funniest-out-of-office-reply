@@ -1,0 +1,7 @@
+kit/
+*.tar.gz
+bundle.tar.gz
+transcripts.tar.gz
+output/
+__pycache__/
+*.pyc
