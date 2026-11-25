@@ -1,8 +1,8 @@
-# Funniest One-Line Out-of-Office Reply
+[![make.fun](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![Rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/jekpotnihye/funniest-out-of-office-reply/rank.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![Reward](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/jekpotnihye/funniest-out-of-office-reply/reward.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
 
-<!-- Coordinator note: the three live make.fun badge lines for this
-competition are to be added at the top of this README by the coordinator
-in a new commit. No badge URLs are invented here. -->
+# Funniest One-Line Out-of-Office Reply
 
 A single out-of-office email auto-reply, one line long, written to be
 funny on a first read and still usable as a real away message.
